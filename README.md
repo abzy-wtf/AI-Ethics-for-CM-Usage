@@ -76,6 +76,7 @@ This dual-layer method ensures each paper maintains internal coherence, avoids d
 /whitepapers
     safety-cognitive-mirror.md
     humor-cognitive-mirror.md
+    why-generative-intelligence.md
 
 /docs
     (reserved for future technical guides)
