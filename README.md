@@ -29,6 +29,11 @@ It covers echo loops, emotional dependence, authority creep, identity drift, cog
 A companion paper defining how humor can be applied safely and constructively within reflective dialogue.
 Humor is treated as a psychological shock absorber that enhances insight when used intentionally, but becomes avoidance when used incorrectly.
 
+### **3. Why Generative Intelligence?**
+
+A terminology-focused whitepaper explaining the shift from the culturally loaded term “Artificial Intelligence” toward the more accurate and operationally grounded term “Generative Intelligence.”
+It clarifies how phrasing impacts public perception, ethical framing, and responsible use of Cognitive Mirror systems.
+
 ---
 
 ## **Project Philosophy**
