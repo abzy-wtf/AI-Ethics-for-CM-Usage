@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "AI Ethics for Cognitive Mirror (CM) Usage: Whitepaper Series"
+message: "If you use these whitepapers in research, teaching, or derivative work, please cite as follows."
+authors:
+  - family-names: Brundy
+    given-names: Arnell
+    orcid: "https://orcid.org/0009-0009-6690-8189"
+repository-code: "https://github.com/abzy-wtf/AI-Ethics-for-CM-Usage"
+version: "1.0.0"
+date-released: "2025-12-09"
+type: "report"
