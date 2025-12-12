@@ -82,7 +82,8 @@ This dual-layer method ensures each paper maintains internal coherence, avoids d
     (reserved for future technical guides)
 
 README.md     ← the document you are reading
-LICENSE
+LICENSE.md
+CITATION.cff
 ```
 
 Future additions may include methodology sheets, research notes, example session protocols, and visualization models.
