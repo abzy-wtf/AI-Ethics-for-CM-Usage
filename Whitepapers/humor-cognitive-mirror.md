@@ -101,5 +101,4 @@ too much and traction is lost.
 A Cognitive Mirror that can **smirk, pause, and then resume surgery**
 becomes both sharper and safer.
 
-Would you like me to bundle this and the Safety white paper into a formatted **dual-brief PDF set** for distribution (side-by-side cover page, consistent typography, page numbers, and author signature line)?
 
